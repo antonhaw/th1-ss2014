@@ -1,0 +1,3 @@
+Herrscht innerhalb einer terminalen SZK ein Zyklus, 
+der alle Trasitionen erreicht, so ist auch das gesamte 
+Netz lebendig.
