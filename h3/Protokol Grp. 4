@@ -23,11 +23,11 @@ Fahrstuhl:
 HA:
 2.1
 	lebendigkeit nicht gezeigt, evtl. eine schaltfolge angeben
-	n mal Dijkstra ist kompliziert, einfahe über die treminalen szks nachweisen(es muss eine szk sein, weil es reversibel ist(alles verbunden))
+	n mal Dijkstra ist kompliziert, einfache über die terminalen szks nachweisen(es muss eine szk sein, weil es reversibel ist(alles verbunden))
 2.2 nicht gemacht
 	Ansatz: 2 algorithmen sind bekannt
 			t ist nicht quasilebendig -> Markierungsinvariant
-			zeigen dass: n ist t fortsezbar <=> N ist lebendig
+			zeigen dass: n ist t fortsetzbar <=> N ist lebendig
 2.3 für beschränkte err.graph gemacht
 	für unbeschr. nicht gemacht(Ansatz: Markierungsarten ermitteln) Nachweis Lebendigkeit und Reversibilität
 2.4 nicht gemacht
