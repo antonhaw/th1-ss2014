@@ -1,0 +1,27 @@
+11 
+    de.renew.gui.CPNDrawing 9 
+        de.renew.gui.TransitionFigure "attributes" "attributes" 1 "FigureWithID" "Int" 2 182 94 24 16 NULL  
+        de.renew.gui.PlaceFigure "attributes" "attributes" 1 "FigureWithID" "Int" 3 275 6 20 20 NULL  
+        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 5 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 255 199 158 255 238 -3 "Köche" "SansSerif" 1 12 0 REF 2 
+            CH.ifa.draw.standard.OffsetLocator -29 -11 
+                CH.ifa.draw.standard.RelativeLocator 0.5 0.5   2  
+        de.renew.gui.ArcConnection "attributes" "attributes" 1 "FigureWithID" "Int" 7 3 277 20 225 45 198 94 NULL 
+            CH.ifa.draw.figures.ArrowTip 0.4 8.0 8.0 1  "CH.ifa.draw.figures.ArrowTip" 
+            CH.ifa.draw.figures.ChopEllipseConnector REF 2  
+            CH.ifa.draw.standard.ChopBoxConnector REF 1   
+        de.renew.gui.ArcConnection "attributes" "attributes" 1 "FigureWithID" "Int" 8 3 206 95 256 69 281 25 NULL 
+            CH.ifa.draw.figures.ArrowTip 0.4 8.0 8.0 1  "CH.ifa.draw.figures.ArrowTip" 
+            CH.ifa.draw.standard.ChopBoxConnector REF 1  
+            CH.ifa.draw.figures.ChopEllipseConnector REF 2   
+        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 9 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 254 254 254 255 170 19 "[koch,arbeit]" "SansSerif" 0 12 0 REF 6 
+            CH.ifa.draw.standard.OffsetLocator -34 -30 
+                CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  
+        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 10 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 254 254 254 255 264 63 "[koch,arbeit]" "SansSerif" 0 12 0 REF 10 
+            CH.ifa.draw.standard.OffsetLocator 54 11 
+                CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  
+        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 4 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 255 199 158 255 329 9 "[\"A\",\"kochen\"];\n[\"A\",\"verrühren\"];\n[\"A\",\"aufschneiden\"];\n[\"A\",\"aufkochen\"];\n[\"A\",\"einrühren\"];\n[\"A\",\"unterheben\"];\n[\"A\",\"abfüllen\"];\n[\"A\",\"auffüllen\"];\n[\"A\",\"trennen\"];\n[\"A\",\"schlagen\"];" "SansSerif" 0 12 0 REF 2 
+            CH.ifa.draw.standard.OffsetLocator 99 73 
+                CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  
+        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 18 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 255 199 158 255 147 114 ":getKoch(koch,arbeit)" "SansSerif" 0 12 0 REF 1 
+            CH.ifa.draw.standard.OffsetLocator 11 20 
+                CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  NULL  396 64 578 320 
