@@ -1,0 +1,18 @@
+Netze in den Protokollen beschreiben!!
+
+---
+
+3.1 	Richtig begründen / zeigen
+
+3.3.1	i nicht berechnen (ist ja schon berechnet) 
+		--> i auf die Matrix anwenden (muss überall 0 ergeben) 
+
+3.3.2 == 3.3.4
+
+3.3.2 nur p1/p2 == 1 oder 0 (n beliebig --> egal)
+
+3.3.3 falsche Begründung
+
+---
+
+Praktikum --> Küche so weit gute Ansatz (bis dahin alles OK)
