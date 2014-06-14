@@ -311,7 +311,7 @@
         de.renew.gui.CPNTextFigure "attributes" "attributes" 5 "FigureWithID" "Int" 2176 "FrameColor" "Color" 255 199 158 255 "MarkingAppearance" "Int" 2 "TextAlignment" "Int" 1 "FillColor" "Color" 255 199 158 255 374 539 "guard neu <= kap-vorh" "SansSerif" 0 12 0 REF 240 
             CH.ifa.draw.standard.OffsetLocator 79 -21 
                 CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  
-        de.renew.gui.CPNTextFigure "attributes" "attributes" 5 "FigureWithID" "Int" 2177 "FrameColor" "Color" 255 199 158 255 "MarkingAppearance" "Int" 2 "TextAlignment" "Int" 1 "FillColor" "Color" 254 254 254 255 204 751 "kap-vorh" "SansSerif" 0 12 0 REF 257 
+        de.renew.gui.CPNTextFigure "attributes" "attributes" 5 "FigureWithID" "Int" 2177 "FrameColor" "Color" 255 199 158 255 "MarkingAppearance" "Int" 2 "TextAlignment" "Int" 1 "FillColor" "Color" 254 254 254 255 217 751 "kap" "SansSerif" 0 12 0 REF 257 
             CH.ifa.draw.standard.OffsetLocator -53 48 
                 CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  
         de.renew.gui.CPNTextFigure "attributes" "attributes" 5 "FigureWithID" "Int" 2178 "FrameColor" "Color" 255 199 158 255 "MarkingAppearance" "Int" 2 "TextAlignment" "Int" 1 "FillColor" "Color" 255 199 158 255 346 653 "2" "SansSerif" 0 12 0 REF 228 
@@ -346,4 +346,4 @@
                 CH.ifa.draw.standard.RelativeLocator 0.5 0.5   2  
         de.renew.gui.CPNTextFigure "attributes" "attributes" 5 "FigureWithID" "Int" 2185 "FrameColor" "Color" 255 199 158 255 "MarkingAppearance" "Int" 2 "TextAlignment" "Int" 1 "FillColor" "Color" 254 254 254 255 557 581 "0" "SansSerif" 0 12 0 REF 329 
             CH.ifa.draw.standard.OffsetLocator 6 -17 
-                CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  NULL  -975 -48 881 853 
+                CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  NULL  0 0 1062 977 
