@@ -1,0 +1,21 @@
+Der Fahrstuhl besteht aus mehreren Klassen:
+ - Haus (als Basisklasse)
+ - Fahrstuhl, der die Fahrstuhl-Instanzen bereitstellt
+ - Person
+ - Stockwerk
+ 
+Das Haus erstellt Instanzen für die gewünschte Anzahl Fahrstühle und 
+ initialisiert die Stockwerke die das Haus beseitzen soll. Der akutelle
+ Fahrstuhl bekommt eine Stockwerk-Instanz und handelt seine Aktion ab.
+ 
+Die Person besitzt die Eigenschaften Stockwerk und Wunsch, um dem Auf-
+ zug die nötigen Informationen zu liefern (wo steigt die Person ein und 
+ wo möchte sie aussteigen)
+ 
+Der Fahrstuhl besitzt eine Kapazität an maximal zugelassenen Personen.
+ Der PersonenPool stellt dem Fahrstuhl die Informationen über die Insassen 
+ und deren Haltewunsch zur Verfügung. 
+ 
+Das Stockwerk enthält ebenfalls einen PersonenPool, der aussagt, wieviele 
+ und welche (in Person initialisierte) Personen sich in dieser Etage 
+ befinden.
